@@ -1,2 +1,3 @@
 # EndlessRunnerTutorial
-Completed Unity endless runner tutorial
+
+This is a completed Unity Endless Runner tutorial.
